@@ -4,7 +4,7 @@ import google.generativeai as genai
 api_key = "AIzaSyA2nDXaXotiWi8g16GElwz20wOcRmO-j9U"  
 
 # Title
-st.title("Pk AI Chatbot")
+st.title("AI Chatbot")
 
 # Initialize Chat History
 if "messages" not in st.session_state:
