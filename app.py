@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai  
 
-api_key = "AIzaSyA2nDXaXotiWi8g16GElwz20wOcRmO-j9U"  
+api_key = ""  
 
 # Title
 st.title("AI Chatbot")
